@@ -1,0 +1,17 @@
+
+Plan:
+
+- Create band to explain the touch options
+- Color elements
+
+
+
+-- Improvement:
+--- Class frame?
+--- Button generalize to n?
+
+
+- Extension:
+-- Parallelism (for the update rule)?
+-- Optimize cache? (Update rule) + show plot;
+-- Justification : Compute results multiple cellular automata.

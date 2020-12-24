@@ -1,0 +1,19 @@
+#define SCREEN_W 640
+#define SCREEN_H 480
+#define BAND_H 100
+#define SIZE_TILES 20
+
+#define N_TILES_W SCREEN_W/SIZE_TILES
+#define N_TILES_H SCREEN_H/SIZE_TILES
+
+#define FRAME_RATE 100
+
+#define SIZE_BUTTON_W SCREEN_W/3
+#define SIZE_BUTTON_H SCREEN_H/8
+
+#ifndef TOKEN
+#define TOKEN
+
+enum States {MENU, FREE, PREDEFINED, SAVE, GAME, QUIT};
+
+#endif

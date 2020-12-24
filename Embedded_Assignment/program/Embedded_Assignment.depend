@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1606251665 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\main.c
+	<stdio.h>
+	<SDL.h>
+
+1608631338 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\main.cpp
+	<stdio.h>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<fstream>
+	<string.h>
+	"table.h"
+	"definitions.h"
+	"data_processing.h"
+	"menu_frame.h"
+	"free_frame.h"
+	"game.h"
+	"band.h"
+	"predefined_frame.h"
+
+1606405027 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\initialization.h
+
+1608622835 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\table.cpp
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
+1608621939 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\table.h
+	<SDL.h>
+	"definitions.h"
+
+1607782991 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\definitions.h
+
+1608031899 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\data_processing.cpp
+	"definitions.h"
+	<string.h>
+	<fstream>
+	<iostream>
+
+1606558809 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\data_processing.h
+	"definitions.h"
+	<string.h>
+
+1607679606 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\menu_frame.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1608622556 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\menu_frame.cpp
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	<iostream>
+	"menu_frame.h"
+
+1607780094 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\free_frame.cpp
+	<stdio.h>
+	<SDL.h>
+	<fstream>
+	"table.h"
+	"definitions.h"
+
+1608631292 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\predefined_frame.cpp
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	<iostream>
+	"predefined_frame.h"
+	"data_processing.h"
+	"table.h"
+
+1607697207 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\free_frame.h
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
+1607780437 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\game.h
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
+1607780200 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\game.cpp
+	<stdio.h>
+	<SDL.h>
+	<fstream>
+	"table.h"
+	"definitions.h"
+
+1607350363 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\font.cpp
+
+1607780396 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\predefined_frame.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1608627525 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\band.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1608647047 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\band.cpp
+	<stdio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	"definitions.h"
+	"band.h"
+
+1608647047 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\band.cpp
+	<stdio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	"definitions.h"
+	"band.h"
+
+1607782991 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\definitions.h
+
+1608627525 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\band.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1608031899 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\data_processing.cpp
+	"definitions.h"
+	<string.h>
+	<fstream>
+	<iostream>
+
+1607780094 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\free_frame.cpp
+	<stdio.h>
+	<SDL.h>
+	<fstream>
+	"table.h"
+	"definitions.h"
+
+1608621939 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\table.h
+	<SDL.h>
+	"definitions.h"
+
+1607780200 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\game.cpp
+	<stdio.h>
+	<SDL.h>
+	<fstream>
+	"table.h"
+	"definitions.h"
+
+1608647398 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\main.cpp
+	<stdio.h>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<fstream>
+	<string.h>
+	"table.h"
+	"definitions.h"
+	"data_processing.h"
+	"menu_frame.h"
+	"free_frame.h"
+	"game.h"
+	"band.h"
+	"predefined_frame.h"
+
+1606558809 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\data_processing.h
+	"definitions.h"
+	<string.h>
+
+1607679606 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\menu_frame.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1607697207 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\free_frame.h
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
+1607780437 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\game.h
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
+1607780396 c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\predefined_frame.h
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+
+1608622556 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\menu_frame.cpp
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	<iostream>
+	"menu_frame.h"
+
+1608631292 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\predefined_frame.cpp
+	"definitions.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<string.h>
+	<iostream>
+	"predefined_frame.h"
+	"data_processing.h"
+	"table.h"
+
+1608622835 source:c:\users\pierre osselin\desktop\oxford\course\embedded systems\embedded_assignment\program\table.cpp
+	<stdio.h>
+	<SDL.h>
+	"definitions.h"
+
